@@ -1,4 +1,5 @@
-# Curso de Programación con Python (2da.Edición)
+# Curso de Programación con Python 
+(2da.Edición)
 
 ## Información del curso
 - [u0:PDF](../main/PDFs/u0_info_curso.pdf)

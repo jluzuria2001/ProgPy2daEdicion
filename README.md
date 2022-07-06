@@ -16,8 +16,8 @@
 - [u2:Parte1](../main/PDFs/u2_a_tipos_de_datos.pdf)
 - [u2:Parte2](../main/PDFs/u2_b_declaraciones_de_control.pdf)
 - [u2:Parte3](../main/PDFs/u2_c_funciones.pdf)
-- [u2:códigoA](../main/Codigo/Unidad2_Tipos_de_datos/)
-- [u2:códigoB](../main/Codigo/Unidad2_bucles_y_funciones/)
+- [u2:código](../main/Codigo/Unidad2_Tipos_de_datos/)
+
 
 ## Unidad 3: Programación Orientada a Objetos
 *8 y 11-jul-22 (Viernes, Lunes)*

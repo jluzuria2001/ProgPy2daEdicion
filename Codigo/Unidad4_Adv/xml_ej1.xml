@@ -1,0 +1,6 @@
+<persona>
+    <nombre>Juan</nombre>
+    <apellido>Perez</apellido>
+    <telefono type="movil">601814456</telefono>
+    <correoe trabajo="si">juan.p@gmail.com</correoe>
+</persona>

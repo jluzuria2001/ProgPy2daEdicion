@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<data>
+    <pais nombre="Liechtenstein">
+        <rank>1</rank>
+        <año>2008</año>
+        <pibph>141100</pibph>
+        <vecino nombre="Austria" direccion="E"/>
+        <vecino nombre="Switzerland" direccion="O"/>
+    </pais>
+    <pais nombre="Singapore">
+        <rank>4</rank>
+        <año>2011</año>
+        <pibph>59900</pibph>
+        <vecino nombre="Malaysia" direccion="N"/>
+    </pais>
+    <pais nombre="Panama">
+        <rank>68</rank>
+        <año>2011</año>
+        <pibph>13600</pibph>
+        <vecino nombre="Costa Rica" direccion="O"/>
+        <vecino nombre="Colombia" direccion="E"/>
+    </pais>
+</data>

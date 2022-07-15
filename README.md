@@ -41,11 +41,11 @@
 - [u6:código](../main/Codigo/Unidad6_IoT)
 
 ## Unidad 7: Servicios REST
-*20 y 22-jul-21 (Miércoles, Viernes)*
+*20 y 25-jul-21 (Miércoles, Lunes)*
 - [u7:PDF](../main/PDFs/u7_rest.pdf)
 - [u7:código](../main/Codigo/Unidad7_Web)
 
 ## Unidad 8: Análisis de datos
-*25-jul-21 (Lunes)*
+*27-jul-21 (Miercoles)*
 - [u8:PDF](../main/PDFs/u8_dataAna.pdf)
 - [u8:código](../main/Codigo/Unidad8_DataAna)

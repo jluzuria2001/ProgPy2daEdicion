@@ -1,0 +1,29 @@
+@api = http://localhost:5000/recetas
+
+### C
+POST {{api}}
+Content-Type: application/json
+
+{
+    "nombre": "fideua",
+    "descripcion": "receta de una fideua"
+}
+
+
+### R
+GET {{api}}
+
+### R
+GET {{api}}/2
+
+### U
+PUT {{api}}/2
+Content-Type: application/json
+
+{
+    "nombre": "una pizza",
+    "descripcion": "pizza 4 quesos"
+} 
+
+### D
+DELETE {{api}}/6

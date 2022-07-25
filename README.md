@@ -22,7 +22,7 @@
 ## Unidad 3: Programación Orientada a Objetos
 *8 y 11-jul-22 (Viernes, Lunes)*
 - [u3:PDF](../main/PDFs/u3_POO.pdf)
-- [u3:código](../main/Codigo/Unidad3-POO/)
+- [u3:código](../main/Codigo/Unidad3_POO/)
 
 ## Unidad 4: Programación Avanzada
 *13-jul-22 (Miércoles)*
@@ -41,11 +41,11 @@
 - [u6:código](../main/Codigo/Unidad6_IoT)
 
 ## Unidad 7: Servicios REST
-*20 y 25-jul-21 (Miércoles, Lunes)*
-- [u7:PDF](../main/PDFs/u7_rest.pdf)
+*20 y 22-jul-21 (Miércoles, Viernes)*
+- [u7:PDF](../main/PDFs/u7_web.pdf)
 - [u7:código](../main/Codigo/Unidad7_Web)
 
 ## Unidad 8: Análisis de datos
-*27-jul-21 (Miercoles)*
+*25-jul-21 (Lunes)*
 - [u8:PDF](../main/PDFs/u8_dataAna.pdf)
 - [u8:código](../main/Codigo/Unidad8_DataAna)
